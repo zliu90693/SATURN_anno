@@ -1,0 +1,3 @@
+species,path,embedding_path
+Acer,/hdd2/liuzy/Projects/SATURN_anno/matrix/Acer_saturn_input.h5ad,/hdd2/liuzy/Projects/SATURN_anno/gene_embeddings/Acer.gene_id_to_embedding_ESM1b.pt
+Amel,/hdd2/liuzy/Projects/SATURN_anno/matrix/Amel_saturn_input.h5ad,/hdd2/liuzy/Projects/SATURN_anno/gene_embeddings/Amel.gene_id_to_embedding_ESM1b.pt
